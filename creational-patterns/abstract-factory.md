@@ -177,3 +177,7 @@ class ApplicationConfigurator is
 缺点：
 
 由于采用该模式需要向应用中引入众多接口和类， 代码可能会比之前更加复杂。
+
+## 代码示例：
+
+[GitHub](https://github.com/Poison02/Java-Note/tree/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/code/designpattern/abstract-factory)
