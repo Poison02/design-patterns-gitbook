@@ -7,5 +7,6 @@
   * [builder](creational-patterns/builder.md)
   * [prototype](creational-patterns/prototype.md)
   * [singleton](creational-patterns/singleton.md)
-* [structural pattern](structural-pattern.md)
+* [structural pattern](structural-pattern/README.md)
+  * [adapter](structural-pattern/adapter.md)
 * [behavioral model](behavioral-model.md)
