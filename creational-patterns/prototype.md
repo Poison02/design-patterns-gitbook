@@ -8,7 +8,7 @@ description: 原型模式
 
 **原型模式**是一种创建型设计模式， 使你能够复制已有对象， 而又无需使代码依赖它们所属的类。
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ## 问题
 
@@ -44,17 +44,17 @@ description: 原型模式
 
 **基本实现**
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (2).png>)
 
 **原型注册表实现**
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 ## 伪代码
 
 在本例中， **原型**模式能让你生成完全相同的几何对象副本， 同时无需代码与对象所属类耦合。
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 所有形状类都遵循同一个提供克隆方法的接口。 在复制自身成员变量值到结果对象前， 子类可调用其父类的克隆方法。
 
