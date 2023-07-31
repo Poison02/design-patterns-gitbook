@@ -10,4 +10,5 @@
 * [structural pattern](structural-pattern/README.md)
   * [adapter](structural-pattern/adapter.md)
   * [bridge](structural-pattern/bridge.md)
+  * [Composite](structural-pattern/composite.md)
 * [behavioral model](behavioral-model.md)

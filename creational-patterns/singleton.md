@@ -8,7 +8,7 @@ description: 单例模式
 
 **单例模式**是一种创建型设计模式， 让你能够保证一个类只有一个实例， 并提供一个访问该实例的全局节点。
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ## 问题
 
@@ -45,7 +45,7 @@ description: 单例模式
 
 ## 单例模式结构
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (2).png>)
 
 ## 伪代码
 
