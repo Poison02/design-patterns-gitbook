@@ -11,4 +11,5 @@
   * [adapter](structural-pattern/adapter.md)
   * [bridge](structural-pattern/bridge.md)
   * [Composite](structural-pattern/composite.md)
+  * [decorator](structural-pattern/decorator.md)
 * [behavioral model](behavioral-model.md)
