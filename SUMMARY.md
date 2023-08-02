@@ -12,4 +12,5 @@
   * [bridge](structural-pattern/bridge.md)
   * [Composite](structural-pattern/composite.md)
   * [decorator](structural-pattern/decorator.md)
+  * [facade](structural-pattern/facade.md)
 * [behavioral model](behavioral-model.md)
