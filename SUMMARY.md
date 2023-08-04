@@ -14,4 +14,5 @@
   * [decorator](structural-pattern/decorator.md)
   * [facade](structural-pattern/facade.md)
   * [flyweight](structural-pattern/flyweight.md)
+  * [proxy](structural-pattern/proxy.md)
 * [behavioral model](behavioral-model.md)
