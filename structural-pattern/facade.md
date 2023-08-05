@@ -8,7 +8,7 @@ description: 外观模式
 
 **外观模式**是一种结构型设计模式， 能为程序库、 框架或其他复杂类提供一个简单的接口。
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (9).png>)
 
 ## 问题
 
@@ -26,19 +26,19 @@ description: 外观模式
 
 ## 真实世界类比
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 当你通过电话给商店下达订单时， 接线员就是该商店的所有服务和部门的外观。 接线员为你提供了一个同购物系统、 支付网关和各种送货服务进行互动的简单语音接口。
 
 ## 外观模式结构 <a href="#structure" id="structure"></a>
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## 伪代码
 
 在本例中， **外观**模式简化了客户端与复杂视频转换框架之间的交互。
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 你可以创建一个封装所需功能并隐藏其他代码的外观类， 从而无需使全部代码直接与数十个框架类进行交互。 该结构还能将未来框架升级或更换所造成的影响最小化， 因为你只需修改程序中外观方法的实现即可。
 
