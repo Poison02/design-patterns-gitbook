@@ -17,3 +17,4 @@
   * [proxy](structural-pattern/proxy.md)
 * [behavioral model](behavioral-model/README.md)
   * [chain](behavioral-model/chain.md)
+  * [command](behavioral-model/command.md)
