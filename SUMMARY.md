@@ -18,3 +18,4 @@
 * [behavioral model](behavioral-model/README.md)
   * [chain](behavioral-model/chain.md)
   * [command](behavioral-model/command.md)
+  * [iterator](behavioral-model/iterator.md)
