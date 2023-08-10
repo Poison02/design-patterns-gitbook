@@ -21,3 +21,4 @@
   * [iterator](behavioral-model/iterator.md)
   * [mediator](behavioral-model/mediator.md)
   * [memento](behavioral-model/memento.md)
+  * [observer](behavioral-model/observer.md)
