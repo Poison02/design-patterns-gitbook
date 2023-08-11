@@ -22,3 +22,4 @@
   * [mediator](behavioral-model/mediator.md)
   * [memento](behavioral-model/memento.md)
   * [observer](behavioral-model/observer.md)
+  * [state](behavioral-model/state.md)
