@@ -23,3 +23,4 @@
   * [memento](behavioral-model/memento.md)
   * [observer](behavioral-model/observer.md)
   * [state](behavioral-model/state.md)
+  * [strategy](behavioral-model/strategy.md)
