@@ -25,3 +25,4 @@
   * [state](behavioral-model/state.md)
   * [strategy](behavioral-model/strategy.md)
   * [template method](behavioral-model/template-method.md)
+  * [visitor](behavioral-model/visitor.md)
